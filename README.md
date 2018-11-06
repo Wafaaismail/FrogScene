@@ -8,7 +8,6 @@ we choose to make a scene from a game that we used to play when we were Young.
 
 ![alt text](https://github.com/Wafaaismail/FrogScene/blob/master/hqdefault.jpg)
 
-[GitHub Pages](https://pages.github.com/)
 
 ## Texture 
 
